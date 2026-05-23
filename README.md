@@ -26,7 +26,7 @@
 
 **[高性能缓存系统](https://github.com/Rrrayy/Cache-System)** · 进行中
 
-基于C++17的内存缓存实现，支持LRU/LFU淘汰策略。
+基于C++17的内存缓存实现，支持FIFO/LRU/LFU/ARC淘汰策略。
 
 ---
 
