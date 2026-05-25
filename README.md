@@ -10,7 +10,7 @@
 
 目前在做：高性能缓存系统（C++17）  
 
-算法学习 - [algorithm-problems](https://github.com/Rrray/algorithm-problems)
+算法学习 - [algorithm-problems](https://github.com/Rrrayy/algorithm-problems)
 
 ---
 
