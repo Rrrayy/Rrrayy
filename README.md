@@ -6,9 +6,7 @@
 
 ### 关于我
 
->专注C++开发，正在深入学习计算机网络与底层编程。
-
-目前在做：高性能缓存系统（C++17）  
+>专注C++开发，正在深入学习计算机网络与网络编程。
 
 算法学习 - [algorithm-problems](https://github.com/Rrrayy/algorithm-problems)
 
@@ -26,7 +24,7 @@
 
 ### 项目
 
-**[高性能缓存系统](https://github.com/Rrrayy/Cache-System)** · 进行中
+**[高性能缓存系统](https://github.com/Rrrayy/Cache-System)** · 已完成
 
 基于C++17的内存缓存实现，支持FIFO/LRU/LFU/ARC淘汰策略。
 
