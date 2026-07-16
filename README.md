@@ -14,27 +14,54 @@
 
   ## 🛠️ 技术栈
 
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-  ![GDB](https://img.shields.io/badge/GDB-FE7A16?style=for-the-badge&logo=gnu&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+   <p align="center">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GDB-FE7A16?style=for-the-badge&logo=gnu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Protobuf-34A853?style=for-the-badge&logo=protocolbuffers&logoColor=white"/>
+  </p>  
+  
 
   ---
 
-  ### 📦 项目
+   
+  ### 📦 项目  
+  
 
-  **[⚡ Cache-System](https://github.com/Rrrayy/Cache-System)**
+  **[⚡ Cache-System](https://github.com/Rrrayy/Cache-System)**  
+  
   高性能缓存系统 · C++17 实现 · 支持 FIFO / LRU / LFU / ARC 四种淘汰策略
 
-  **[📚 os_lab](https://github.com/Rrrayy/os_lab)**
-  操作系统实验合集 · 系统调用跟踪 / fork 进程 / 僵尸进程 · 持续更新中
+  **[📚 os_lab](https://github.com/Rrrayy/os_lab)**  
+  
+  从系统调用到并发编程，覆盖进程调度、虚拟内存、文件系统、并发锁等 OS 核心知识体系。
+
 
   ---
 
-  📧 [3111937934@qq.com](mailto:3111937934@qq.com) · 🌐 [rrrayy.github.io](https://rrrayy.github.io)
+  ### 📝 个人博客
+  
+  - [g++ 从入门到忘记](https://blog.csdn.net/rr666888/article/details/162645027?spm=1001.2014.3001.5502)
+  - [malloc(1) 背后的 brk 与 mmap —— glibc 内存分配源码探究](https://blog.csdn.net/rr666888/article/details/162793574?spm=1001.2014.3001.5502) 
+  - [硬链接和软链接的区别--inode 详解](https://blog.csdn.net/rr666888/article/details/162816776?spm=1001.2014.3001.5502) 
+  - [ext4文件系统详解--hexdump看清磁盘布局](https://blog.csdn.net/rr666888/article/details/162878654?spm=1001.2014.3001.5501)
+  - [Linux CFS 完全公平调度器深度拆解](https://blog.csdn.net/rr666888/article/details/162712345?spm=1001.2014.3001.5502)
+
+
+  ---
+       
+  
+
+  📧 [3111937934@qq.com](mailto:3111937934@qq.com)     🌐 [rrrayy.github.io](https://rrrayy.github.io)       📖 [CSDN 主页](https://blog.csdn.net/rr666888?type=blog)
 
   ---
