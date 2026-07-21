@@ -57,6 +57,7 @@
   - [ext4文件系统详解--hexdump看清磁盘布局](https://blog.csdn.net/rr666888/article/details/162878654?spm=1001.2014.3001.5501)
   - [Linux CFS 完全公平调度器深度拆解](https://blog.csdn.net/rr666888/article/details/162712345?spm=1001.2014.3001.5502)
   - [C++ 多线程入门：创建线程、加锁、计数](https://blog.csdn.net/rr666888/article/details/162950541?sharetype=blogdetail&sharerId=162950541&sharerefer=PC&sharesource=rr666888&spm=1011.2480.3001.8118)
+  - [锁的进阶：自旋锁，死锁与条件变量](https://blog.csdn.net/rr666888/article/details/163084384?spm=1001.2014.3001.5502)
 
 
   ---
