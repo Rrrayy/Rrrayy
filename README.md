@@ -44,7 +44,11 @@
 
   **[📚 os_lab](https://github.com/Rrrayy/os_lab)**  
   
-  从系统调用到并发编程，覆盖进程调度、虚拟内存、文件系统、并发锁等 OS 核心知识体系。
+  从系统调用到并发编程，覆盖进程调度、虚拟内存、文件系统、并发锁等 OS 核心知识体系。  
+  
+   **[🌐 Net_lab](https://github.com/Rrrayy/Net_lab)** 
+   
+   手写HTTP服务器 · DNS解析 · TCP/UDP实验
 
 
   ---
