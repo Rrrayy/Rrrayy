@@ -37,7 +37,7 @@
   ---
 
    
-  ### 📦 项目  
+  ### 📦 作品  
   
 
   **[⚡ Cache-System](https://github.com/Rrrayy/Cache-System)**  
@@ -50,7 +50,8 @@
   
    **[🌐 Net_lab](https://github.com/Rrrayy/Net_lab)** 
    
-   手写HTTP服务器 · DNS解析 · TCP/UDP实验
+  网络实验合集：HTTP 服务器 / DNS 解析器 / TCP 三次握手抓包验证 / 拥塞控制模拟器 / TIME_WAIT 观察 / TCP 回射服务器 / select 多路复用 / epoll
+  高并发回射（LT+ET）/ UDP 回射 / 多进程并发模型。覆盖从应用层到传输层的全部核心机制
 
 
   ---
