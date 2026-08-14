@@ -51,16 +51,19 @@
    **[Net_lab](https://github.com/Rrrayy/Net_lab)** 
    
   网络实验合集：HTTP 服务器 / DNS 解析器 / TCP 三次握手抓包验证 / 拥塞控制模拟器 / TIME_WAIT 观察 / TCP 回射服务器 / select 多路复用 / epoll
-  高并发回射（LT+ET）/ UDP 回射 / 多进程并发模型。覆盖从应用层到传输层的全部核心机制
+  高并发回射（LT+ET）/ UDP 回射 / 多进程并发模型。覆盖从应用层到传输层的全部核心机制 
+  
+   **[STL-internals](https://github.com/Rrrayy/STL-internals)**
 
+  手写 STL 容器与算法：vector 1.5 倍扩容 / unordered_map 拉链+rehash/ priority_queue 堆三算法 / list 哨兵节点 / deque 中控器四指针 / string SSO
 
   ---
 
   ### 📝 最新博客
 
-  - [零拷贝到底快在哪？](https://blog.csdn.net/rr666888/article/details/163222717) — 2026-07-27
-  - [锁的进阶：自旋锁，死锁与条件变量](https://blog.csdn.net/rr666888/article/details/163084384) — 2026-07-21
-  - [C++ 多线程入门：创建线程、加锁、计数](https://blog.csdn.net/rr666888/article/details/162950541) — 2026-07-17
+   - [lambda 闭包原理](https://blog.csdn.net/rr666888/article/details/163764597) — 2026-08-15
+   - [零拷贝到底快在哪？](https://blog.csdn.net/rr666888/article/details/163222717) — 2026-07-27
+   - [锁的进阶：自旋锁，死锁与条件变量](https://blog.csdn.net/rr666888/article/details/163084384) — 2026-07-21
 
   <details>
   <summary><b> 全部博文 (共 8 篇)</b></summary>
@@ -73,6 +76,7 @@
   - [C++ 多线程入门：创建线程、加锁、计数](https://blog.csdn.net/rr666888/article/details/162950541) — 2026-07-17
   - [锁的进阶：自旋锁，死锁与条件变量](https://blog.csdn.net/rr666888/article/details/163084384) — 2026-07-21
   - [零拷贝到底快在哪？](https://blog.csdn.net/rr666888/article/details/163222717) — 2026-07-27
+  - [lambda 闭包原理](https://blog.csdn.net/rr666888/article/details/163764597) — 2026-08-15
 
   </details>
 
