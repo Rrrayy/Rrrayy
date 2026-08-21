@@ -4,6 +4,8 @@
 
 *Digging deep — C++ · Systems · Architecture*
 
+ 算法学习 → [algorithm-problems](https://github.com/Rrrayy/algorithm-problems)
+
 ---
 
 ## 技术栈
