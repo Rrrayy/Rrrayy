@@ -4,7 +4,13 @@
 
 *Digging deep — C++ · Systems · Architecture*
 
- 算法学习 → [algorithm-problems](https://github.com/Rrrayy/algorithm-problems)
+📐 算法学习 → [algorithm-problems](https://github.com/Rrrayy/algorithm-problems)
+
+## Current Focus
+
+- 系统架构与后端基础设施
+- 高性能 C++ 与性能工程
+- 分布式通信、并发与网络编程
 
 ---
 
@@ -19,13 +25,27 @@
     <img src="https://img.shields.io/badge/Protobuf-34A853?style=for-the-badge&logo=protocolbuffers&logoColor=white"/>
     <img src="https://img.shields.io/badge/Muduo-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/Zookeeper-006600?style=for-the-badge&logo=apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/epoll-FF6C37?style=for-the-badge&logo=&logoColor=white"/>
+    <img src="https://img.shields.io/badge/epoll-FF6C37?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
+## Selected Work
+
+| Project | Focus | Evidence |
+|---|---|---|
+| [RPC](https://github.com/Rrrayy/RPC) | Distributed communication | 10 万次调用 0 失败 · QPS 6700 |
+| [Cache-System](https://github.com/Rrrayy/Cache-System) | Cache replacement | LRU / LFU / ARC benchmark |
+| [STL-internals](https://github.com/Rrrayy/STL-internals) | Container internals | vector / unordered_map benchmark |
+
+---
+
+
+
+## GitHub 活跃度
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rrrayy&theme=dark" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Rrrayy&theme=dark&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
@@ -41,7 +61,7 @@
 - [锁的进阶：自旋锁，死锁与条件变量](https://blog.csdn.net/rr666888/article/details/163084384) — 2026-07-21
 
 <details>
-<summary><b>全部博文 (共 8 篇)</b></summary>
+<summary><b>全部博文 (共 9 篇)</b></summary>
 
 - [g++ 从入门到忘记](https://blog.csdn.net/rr666888/article/details/162645027) — 2026-07-07
 - [Linux CFS 完全公平调度器深度拆解](https://blog.csdn.net/rr666888/article/details/162712345) — 2026-07-09
@@ -49,9 +69,6 @@
 - [硬链接和软链接的区别——inode 详解](https://blog.csdn.net/rr666888/article/details/162816776) — 2026-07-12
 - [ext4 文件系统详解——hexdump 看清磁盘布局](https://blog.csdn.net/rr666888/article/details/162878654) — 2026-07-14
 - [C++ 多线程入门：创建线程、加锁、计数](https://blog.csdn.net/rr666888/article/details/162950541) — 2026-07-17
-- [锁的进阶：自旋锁，死锁与条件变量](https://blog.csdn.net/rr666888/article/details/163084384) — 2026-07-21
-- [零拷贝到底快在哪？](https://blog.csdn.net/rr666888/article/details/163222717) — 2026-07-27
-- [lambda 闭包原理](https://blog.csdn.net/rr666888/article/details/163764597) — 2026-08-15
 
 </details>
 
@@ -60,3 +77,4 @@
 📧 [3111937934@qq.com](mailto:3111937934@qq.com)     🌐 [rrrayy.github.io](https://rrrayy.github.io)       📖 [CSDN 主页](https://blog.csdn.net/rr666888?type=blog)
 
 ---
+```
