@@ -56,9 +56,10 @@
 
 ## 博客
 
+- [C++移动语义与完美转发](https://blog.csdn.net/rr666888/article/details/164191908) — 2026-08-30
 - [lambda 闭包原理](https://blog.csdn.net/rr666888/article/details/163764597) — 2026-08-15
 - [零拷贝到底快在哪？](https://blog.csdn.net/rr666888/article/details/163222717) — 2026-07-27
-- [锁的进阶：自旋锁，死锁与条件变量](https://blog.csdn.net/rr666888/article/details/163084384) — 2026-07-21
+
 
 <details>
 <summary><b>全部博文 (共 9 篇)</b></summary>
@@ -69,6 +70,7 @@
 - [硬链接和软链接的区别——inode 详解](https://blog.csdn.net/rr666888/article/details/162816776) — 2026-07-12
 - [ext4 文件系统详解——hexdump 看清磁盘布局](https://blog.csdn.net/rr666888/article/details/162878654) — 2026-07-14
 - [C++ 多线程入门：创建线程、加锁、计数](https://blog.csdn.net/rr666888/article/details/162950541) — 2026-07-17
+- [锁的进阶：自旋锁，死锁与条件变量](https://blog.csdn.net/rr666888/article/details/163084384) — 2026-07-21
 
 </details>
 
