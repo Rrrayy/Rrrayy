@@ -44,14 +44,31 @@
 
 ## GitHub 活跃度
 
+
+<!-- 连续提交 -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rrrayy&theme=dark&hide_border=true" height="150"/>
+  <a href="https://github.com/Rrrayy">
+    <img
+      src="https://streak-stats.demolab.com/?user=Rrrayy&theme=dark&hide_border=true&background=00000000&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=D1D5DB&dates=6B7280"
+      height="155"
+      alt="Rray 的连续提交记录"
+    />
+  </a>
 </p>
 
+<!-- 语言分布与活跃时间 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rrrayy&theme=react-dark" width="90%"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rrrayy&theme=github_dark"
+    height="165"
+    alt="仓库语言分布"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rrrayy&theme=github_dark&utcOffset=8"
+    height="165"
+    alt="提交活跃时间"
+  />
 </p>
-
 ---
 
 ## 博客
