@@ -2,8 +2,6 @@
 
 南京邮电大学 · 计算机科学与技术
 
-*Digging deep — C++ · Systems · Architecture*
-
 📐 算法学习 → [algorithm-problems](https://github.com/Rrrayy/algorithm-problems)
 
 ## Current Focus
@@ -30,17 +28,6 @@
 </p>
 
 ---
-
-## Selected Work
-
-| Project | Focus | Evidence |
-|---|---|---|
-| [RPC](https://github.com/Rrrayy/RPC) | Distributed communication | 10 万次调用 0 失败 · QPS 6700 |
-| [Cache-System](https://github.com/Rrrayy/Cache-System) | Cache replacement | LRU / LFU / ARC benchmark |
-| [STL-internals](https://github.com/Rrrayy/STL-internals) | Container internals | vector / unordered_map benchmark |
-
----
-
 
 
 ## GitHub 活跃度
