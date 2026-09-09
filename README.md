@@ -2,8 +2,7 @@
 
 南京邮电大学 · 计算机科学与技术
 
-**高性能 C++ 客户端 · 系统架构与分布式通信**  
-持续探索 **AI Agent 工程化**
+**C++ 高性能客户端 · 分布式系统 · AI Agent 工程**
 
 [个人网站](https://rrrayy.github.io) ·
 [GitHub](https://github.com/Rrrayy) ·
@@ -12,40 +11,49 @@
 
 ---
 
-## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,linux,cmake,git,mysql,redis,docker" alt="C++ C Python Linux CMake Git MySQL Redis Docker">
-</p>
+## 技术栈
 
-**Systems**  
-C++17 · Socket · TCP/IP · epoll · 多线程 · 线程池 · 内存池 · 性能分析
+### 编程语言
 
-**Infrastructure**  
-CMake · GDB · Protobuf · muduo · ZooKeeper · MySQL · Redis
+`C++17` · `Python`
 
-**Exploring**  
-API Integration · Tool Calling · Workflow Orchestration
+### 网络与系统
 
----
+`Socket` · `TCP/IP` · `epoll` · `多线程` · `线程池` · `内存池` · `GDB`
 
-## GitHub Activity
+### 分布式与中间件
 
-<p>
-  <a href="https://github.com/Rrrayy">
-    <img
-      src="https://streak-stats.demolab.com/?user=Rrrayy&theme=transparent&hide_border=true&background=00000000&ring=C24141&fire=C24141&currStreakLabel=C24141&sideLabels=8B949E&dates=8B949E"
-      width="500"
-      alt="GitHub contribution streak"
-    >
-  </a>
-</p>
+`RPC` · `Protobuf` · `muduo` · `ZooKeeper` · `一致性哈希` · `MySQL` · `Redis`
 
-代表项目见下方 Pinned repositories。
+### AI 后端
+
+`FastAPI` · `asyncio` · `httpx` · `pytest` · `OpenAI 兼容 API` · `Tool Calling` · `RAG` · `MCP`
+
+### 构建与工具
+
+`Linux` · `CMake` · `Make` · `Git` · `Docker`
 
 ---
 
-## Writing
+## GitHub 数据
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rrrayy&theme=github_dark"
+    height="180"
+    alt="仓库语言统计"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rrrayy&theme=github_dark"
+    height="180"
+    alt="GitHub 提交统计"
+  />
+</p>
+
+---
+
+## 技术文章
 
 - [一致性哈希详解：从哈希环到分布式缓存](https://blog.csdn.net/rr666888/article/details/164331090) · 2026-09-03
 - [C++ 移动语义与完美转发](https://blog.csdn.net/rr666888/article/details/164191908) · 2026-08-30
@@ -55,4 +63,4 @@ API Integration · Tool Calling · Workflow Orchestration
 
 ---
 
-<sub>Build systems. Understand the trade-offs.</sub>
+<sub>构建系统，理解取舍，验证结果。</sub>
