@@ -40,15 +40,32 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rrrayy&theme=github_dark"
+    src="https://streak-stats.demolab.com/?user=Rrrayy&theme=dark&hide_border=true&background=0d1117&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00"
     height="180"
-    alt="仓库语言统计"
-  />
+    alt="GitHub 连续打卡统计"
+  >
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rrrayy&theme=github_dark"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Rrrayy&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
     height="180"
-    alt="GitHub 提交统计"
-  />
+    alt="GitHub 使用语言统计"
+  >
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Rrrayy/Rrrayy/gh-pages/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Rrrayy/Rrrayy/gh-pages/github-contribution-grid-snake.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/Rrrayy/Rrrayy/gh-pages/github-contribution-grid-snake.svg"
+      alt="GitHub 贡献轨迹"
+    >
+  </picture>
 </p>
 
 ---
