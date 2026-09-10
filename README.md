@@ -44,12 +44,11 @@
     height="180"
     alt="GitHub 连续打卡统计"
   >
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Rrrayy&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
-    height="180"
-    alt="GitHub 使用语言统计"
-  >
-</p>
+ <img
+  src="https://raw.githubusercontent.com/Rrrayy/Rrrayy/main/metrics-languages.svg"
+  height="180"
+  alt="GitHub 使用语言统计"
+>
 
 <p align="center">
   <img
