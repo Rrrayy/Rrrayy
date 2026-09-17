@@ -62,12 +62,11 @@
 
 ## 技术文章
 
+- [Python异步编程](https://blog.csdn.net/rr666888/article/details/165735864)· 2026-09-17
 - [一致性哈希详解：从哈希环到分布式缓存](https://blog.csdn.net/rr666888/article/details/164331090) · 2026-09-03
 - [C++ 移动语义与完美转发](https://blog.csdn.net/rr666888/article/details/164191908) · 2026-08-30
-- [lambda 闭包原理](https://blog.csdn.net/rr666888/article/details/163764597) · 2026-08-15
 
 [查看全部文章 →](https://rrrayy.github.io/blog/)
 
 ---
 
-<sub>构建系统，理解取舍，验证结果。</sub>
