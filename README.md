@@ -14,25 +14,15 @@
 
 ## 技术栈
 
-### 编程语言
+**编程语言与系统工具**  
+`C++` · `Python` · `Linux` · `CMake` · `Git` · `GDB`
 
-`C++17` · `Python`
+**后端与中间件**  
+`muduo` · `RPC` · `Protobuf` · `ZooKeeper` · `MySQL` · `Redis`  
+`FastAPI` · `asyncio` · `httpx` · `Pydantic` · `pytest`
 
-### 网络与系统
-
-`Socket` · `TCP/IP` · `epoll` · `多线程` · `线程池` · `内存池` · `GDB`
-
-### 分布式与中间件
-
-`RPC` · `Protobuf` · `muduo` · `ZooKeeper` · `一致性哈希` · `MySQL` · `Redis`
-
-### AI 后端
-
-`FastAPI` · `asyncio` · `httpx` · `pytest` · `OpenAI 兼容 API` · `Tool Calling` · `RAG` · `MCP`
-
-### 构建与工具
-
-`Linux` · `CMake` · `Make` · `Git` · `Docker`
+**大模型应用工程**  
+`OpenAI API` · `模型 Provider` · `Function Calling` · `Agent Loop`
 
 ---
 
@@ -62,9 +52,9 @@
 
 ## 技术文章
 
+- [Pydantic：为Agent建立可靠的数据边界](https://blog.csdn.net/rr666888/article/details/166009491) · 2026-09-19
 - [Python异步编程](https://blog.csdn.net/rr666888/article/details/165735864)· 2026-09-17
 - [一致性哈希详解：从哈希环到分布式缓存](https://blog.csdn.net/rr666888/article/details/164331090) · 2026-09-03
-- [C++ 移动语义与完美转发](https://blog.csdn.net/rr666888/article/details/164191908) · 2026-08-30
 
 [查看全部文章 →](https://rrrayy.github.io/blog/)
 
