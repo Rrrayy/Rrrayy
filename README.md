@@ -1,8 +1,5 @@
 # Rray
 
-南京邮电大学 · 计算机科学与技术
-
-**C++ 高性能客户端 · 分布式系统 · AI Agent 工程**
 
 [个人网站](https://rrrayy.github.io) ·
 [GitHub](https://github.com/Rrrayy) ·
