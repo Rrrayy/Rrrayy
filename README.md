@@ -1,29 +1,35 @@
 # Rray
 
+Exploring reliable AI agent systems and C++ server-side services.
 
-[个人网站](https://rrrayy.github.io) ·
-[GitHub](https://github.com/Rrrayy) ·
-[CSDN](https://blog.csdn.net/rr666888?type=blog) ·
+[Website](https://rrrayy.github.io) ·
+[Blog](https://rrrayy.github.io/blog/) ·
 [Email](mailto:3111937934@qq.com)
 
----
+I build C++ projects involving RPC, concurrency, and networking, while
+developing Python-based AI services.
 
-
-## 技术栈
-
-**编程语言与系统工具**  
-`C++` · `Python` · `Linux` · `CMake` · `Git` · `GDB`
-
-**后端与中间件**  
-`muduo` · `RPC` · `Protobuf` · `ZooKeeper` · `MySQL` · `Redis`  
-`FastAPI` · `asyncio` · `httpx` · `Pydantic` · `pytest`
-
-**大模型应用工程**  
-`OpenAI API` · `模型 Provider` · `Function Calling` · `Agent Loop`
+Currently building an evidence-driven diagnosis platform for backend incidents.
 
 ---
 
-## GitHub 数据
+## Tech Stack
+
+**Languages:** C++ · Python · SQL
+
+**Backend:** Linux · FastAPI · asyncio · Pydantic · httpx · pytest · SSE
+
+**Distributed Systems:** RPC · Protobuf · ZooKeeper · Concurrency
+
+**Data:** MySQL · PostgreSQL · Redis
+
+**Infra:** Docker · Git · CMake · GDB
+
+**AI Engineering:** LLM Providers · Function Calling · Structured Output · Agent Workflows
+
+---
+
+##  GitHub Activity
 
 <p align="center">
   <img
@@ -47,13 +53,5 @@
 
 ---
 
-## 技术文章
 
-- [Pydantic：为Agent建立可靠的数据边界](https://blog.csdn.net/rr666888/article/details/166009491) · 2026-09-19
-- [Python异步编程](https://blog.csdn.net/rr666888/article/details/165735864)· 2026-09-17
-- [一致性哈希详解：从哈希环到分布式缓存](https://blog.csdn.net/rr666888/article/details/164331090) · 2026-09-03
-
-[查看全部文章 →](https://rrrayy.github.io/blog/)
-
----
 
