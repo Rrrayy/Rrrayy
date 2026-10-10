@@ -9,23 +9,28 @@ Exploring reliable AI agent systems and C++ server-side services.
 I build C++ projects involving RPC, concurrency, and networking, while
 developing Python-based AI services.
 
-Currently building an evidence-driven diagnosis platform for backend incidents.
+Currently building EvidenceOps, a multilingual, evidence-driven diagnosis
+Agent for software incidents. It collects controlled evidence from logs,
+metrics, and configuration, then produces traceable diagnosis reports.
 
 ---
 
 ## Tech Stack
 
+
 **Languages:** C++ · Python · SQL
 
-**Backend:** Linux · FastAPI · asyncio · Pydantic · httpx · pytest · SSE
+**Systems:** Linux · TCP/IP · RPC · Protobuf · Multithreading ·
+Synchronization
 
-**Distributed Systems:** RPC · Protobuf · ZooKeeper · Concurrency
+**Backend:** FastAPI · asyncio · Pydantic · httpx · pytest · SSE
 
-**Data:** MySQL · PostgreSQL · Redis
+**Databases:** MySQL · PostgreSQL · SQLAlchemy · Alembic
 
-**Infra:** Docker · Git · CMake · GDB
+**AI Engineering:** LLM APIs · Function Calling · Structured Output ·
+Agent Runtime · Evaluation
 
-**AI Engineering:** LLM Providers · Function Calling · Structured Output · Agent Workflows
+**Tools:** Docker · Git · CMake · GDB
 
 ---
 
