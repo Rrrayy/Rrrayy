@@ -27,10 +27,10 @@ Synchronization
 
 **Databases:** MySQL · PostgreSQL · SQLAlchemy · Alembic
 
-**AI Engineering:** LLM APIs · Function Calling · Structured Output ·
-Agent Runtime · Evaluation
+**AI Engineering:**  LLM APIs · Tool Calling · Structured Output ·
+Agent Runtime · RAG · Embeddings · BM25 · RRF · Evaluation
 
-**Tools:** Docker · Git · CMake · GDB
+**Tools:** pytest · Docker · Git · CMake · GDB
 
 ---
 
